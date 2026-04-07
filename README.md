@@ -2,7 +2,7 @@
 
 This blend file is meant to generate unit cards for RTR:R
 
-# Unit Card Generator for Rome Total War Remastered
+---------------------------------------------------------
 
 This project is designed to assist in generating unit cards for the game **Rome Total War Remastered**. It provides tools and templates to convert and manage textures, models, and other assets required for creating high-quality unit cards.
 
