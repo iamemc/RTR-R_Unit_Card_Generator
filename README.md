@@ -1,5 +1,6 @@
-# RTR-R_Unit_Card_Generator
-This blend file is meant to generate unit cards for RTR:R - Credits go to Feral Interactive
+# Unit Card Generator - Rome Total War REMASTERED
+
+This blend file is meant to generate unit cards for RTR:R
 
 # Unit Card Generator for Rome Total War Remastered
 
