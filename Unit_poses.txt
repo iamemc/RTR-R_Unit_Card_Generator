@@ -1,0 +1,21 @@
+https://github.com/iamemc/RTR-R_Unit_Card_Generatorarcher: 19
+skirmisher: 33
+pikeman: 34
+hoplite: 37 - requires some editing 
+agema spearmen - 35 close render, 37  full render. 
+thracian infanty - 10 
+royal peltast - 49
+cretan archer - 49
+ephebes - 22 
+agrianian axemen: 11
+hetairoi: 209 
+slinger: 33
+prodromoi: 212
+thureophoroi cav: 213
+Thracian hippakontistai- 213/202
+thracian cavalry - 211 info, 217 #smaller 
+greek hippakontistai - 212 
+machimoi swords- 49
+hellenistic bodyguard: #small: 208, INFO: 203
+thorakitai - 28
+tarantine cavalry - 222

@@ -1,2 +1,36 @@
 # RTR-R_Unit_Card_Generator
 This blend file is meant to generate unit cards for RTR:R - Credits go to Feral Interactive
+
+# Unit Card Generator for Rome Total War Remastered
+
+This project is designed to assist in generating unit cards for the game **Rome Total War Remastered**. It provides tools and templates to convert and manage textures, models, and other assets required for creating high-quality unit cards.
+
+## Features
+- Batch scripts for converting CAS files to FBX and vice versa
+- Organized texture directories for easy asset management
+- Support for various texture formats (DDS, EXR, TGA)
+- Template and documentation for unit poses
+
+## Folder Structure
+- `cas_to_fbx.bat` / `fbx_to_cas.bat`: Batch scripts for model conversion
+- `Unit_poses.txt`: Reference for unit poses
+- `DROP_CAS_HERE/`: Place your CAS files here for processing
+- `textures/`: Contains all texture assets, including subfolders for icons and categorized textures
+- `credits.txt`: Credits and acknowledgments
+
+## Usage
+1. Place your CAS files in the `DROP_CAS_HERE` folder.
+2. Use the provided batch scripts to convert between CAS and FBX formats as needed.
+3. Organize your textures in the `textures/` directory, following the subfolder structure for best results.
+4. Refer to `Unit_poses.txt` for pose guidelines.
+
+## Requirements
+- Windows OS (batch scripts are Windows-based)
+- Rome Total War Remastered asset files (not included)
+- FBX and CAS conversion tools (ensure dependencies are available)
+
+## Credits
+See `credits.txt` for contributors and third-party resources.
+
+## License
+This project is intended for personal and non-commercial use related to Rome Total War Remastered modding.

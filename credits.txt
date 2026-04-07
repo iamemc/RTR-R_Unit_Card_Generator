@@ -1,0 +1,19 @@
+This template was done by:
+
+- Feral Interactive: Base file
+- Swagger: Improved lighting, Armor & Skin shaders
+- Makanyane: UDIM textures for skin
+
+
+Instructions:
+
+import your mesh to the file
+add shaders accordingly
+execute the following script named: RUN THIS SCRIPT
+
+1 - THIS FILE CONTAINS 4 SHADERS:
+    - PBR_Armour_v2 - used for unit armour!
+    - PBR_Skin_v2 - used for unit skin!
+    - PBR_Hair_v2 - Same as Skin but for hair! 
+    - PBR_Horse_Skin_v1 - used for horses skin!
+    - PBR_Horse_Armour_v2 - used for horse armour!
