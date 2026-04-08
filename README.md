@@ -1,6 +1,6 @@
 # Unit Card Generator - Rome Total War REMASTERED
 
-This blend file is meant to generate unit cards for RTR:R
+This blend file is meant to generate unit cards for RTR:R - Requires Blender 5.1.*
 <p align="center">
 	<img src="images/1.png" alt="Unit Card 1" width="600" />
 </p>
